@@ -1,0 +1,7 @@
+﻿{
+  "watch": ["src"],
+  "ext": "ts,json",
+  "execMap": {
+    "ts": "tsx"
+  }
+}
