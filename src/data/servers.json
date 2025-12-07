@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sunlit Yestings",
+    "channelId": "1446264899738140733",
+    "rconHost": "65.109.108.162",
+    "rconPort": 20007,
+    "rconPassword": "test1"
+  },
+  {
+    "name": "All the Mods 10 - To The Sky",
+    "channelId": "1411010290635767929",
+    "rconHost": "65.109.108.162",
+    "rconPort": 20084,
+    "rconPassword": "ChronoIsShort"
+  },
+  {
+    "name": "All the Mods 10",
+    "channelId": "1337997041401462895",
+    "rconHost": "65.109.108.162",
+    "rconPort": 20008,
+    "rconPassword": "ChronoIsShort"
+  },
+  {
+    "name": "Society: Sunlit Valley",
+    "channelId": "1431976274221596863",
+    "rconHost": "65.109.108.162",
+    "rconPort": 20018,
+    "rconPassword": "ChronoIsShort"
+  },
+  {
+    "name": "Stoneblock 4",
+    "channelId": "1434640777866248286",
+    "rconHost": "65.109.108.162",
+    "rconPort": 25510,
+    "rconPassword": "ChronoIsShort"
+  }
+]
