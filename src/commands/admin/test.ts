@@ -1,5 +1,5 @@
 ﻿import { SlashCommandBuilder, ChatInputCommandInteraction } from "discord.js";
-import { executeRCON } from "../utils/rcon.js";
+import { executeRCON } from "./../../utils/rcon.js";
 
 export const data = new SlashCommandBuilder()
     .setName("test")
