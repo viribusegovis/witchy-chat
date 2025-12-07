@@ -1,5 +1,4 @@
 import { Client, GatewayIntentBits, Events, REST, Routes, Collection } from "discord.js";
-import { config } from "./config.js";
 
 // Import commands
 import * as listCmd from "./commands/list.js";
@@ -7,6 +6,7 @@ import * as tpsCmd from "./commands/tps.js";
 import * as packsCmd from "./commands/packs.js";
 import * as setpackCmd from "./commands/admin/setpack.js";
 import * as setserverCmd from "./commands/admin/setserver.js";
+import {config} from "./config.js";
 
 const commands = [listCmd, tpsCmd, packsCmd, setpackCmd, setserverCmd];
 
