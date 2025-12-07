@@ -16,7 +16,7 @@
   {
     "name": "All the Mods 10",
     "channelId": "1337997041401462895",
-    "rconHost": "65.109.108.162",
+    "rconHost": "0.0.0.0",
     "rconPort": 20008,
     "rconPassword": "ChronoIsShort"
   },

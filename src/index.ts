@@ -6,9 +6,11 @@ import * as tpsCmd from "./commands/tps.js";
 import * as packsCmd from "./commands/packs.js";
 import * as setpackCmd from "./commands/admin/setpack.js";
 import * as setserverCmd from "./commands/admin/setserver.js";
+import * as testCmd from "./commands/test.js";
+
 import {config} from "./config.js";
 
-const commands = [listCmd, tpsCmd, packsCmd, setpackCmd, setserverCmd];
+const commands = [listCmd, tpsCmd, packsCmd, setpackCmd, setserverCmd, testCmd];
 
 const client = new Client({
     intents: [GatewayIntentBits.Guilds],
